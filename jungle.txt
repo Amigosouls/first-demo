@@ -1,1 +1,2 @@
-Animals 
+There are many animals in the jungle such as Lion, tiger, cheeta etc.
+peacock,parrot etc.
